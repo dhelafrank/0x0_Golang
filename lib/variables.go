@@ -4,7 +4,7 @@ import "fmt"
 
 var age = 20
 
-var name string //empty variable
+var test string //empty variable
 
 const height = 50 //never changes throughout the program execution
 

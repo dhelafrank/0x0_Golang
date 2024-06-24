@@ -1,0 +1,4 @@
+# 0x0_Golang
+<b>Go</b>, also known as <b>GoLang</b>, is a statically typed, compiled programming language developed by Google in 2009. Designed by Robert Griesemer, Rob Pike, and Ken Thompson, Go aims to provide an efficient, simple, and reliable way to build scalable and concurrent systems. Go's syntax is clean and minimalistic, making it easy to learn and use. Its modern design and built-in concurrency features have made it a popular choice among developers for building cloud-based applications, networked systems, and distributed services.
+<br>
+This repositiory documents my Golang learning journey. 
