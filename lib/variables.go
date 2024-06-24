@@ -1,4 +1,4 @@
-package main
+package lib
 
 import "fmt"
 
@@ -10,7 +10,7 @@ const height = 50 //never changes throughout the program execution
 
 var car, done = "mitsubishi", true //Multiple variables on a single line
 
-func variables() {
+func Variables() {
 	// var age = 21	
-	fmt.Println("Hello World")
+	fmt.Println(age)
 }

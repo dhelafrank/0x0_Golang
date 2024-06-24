@@ -1,10 +1,14 @@
 package main
 
-import "fmt"
-
+import (
+	"0x0_golang/lib"
+	"fmt"
+)
 
 func main() {
 	fmt.Println("Hello World")
+	lib.Hello()
+	lib.Variables()
 }
 
 // We can create binary files in go by simply running '~go build hello.go'
